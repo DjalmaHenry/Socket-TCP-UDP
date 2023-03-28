@@ -1,4 +1,4 @@
-# server tcp 
+# server TCP
 # -*- coding: utf-8 -*-
 import socket
 
