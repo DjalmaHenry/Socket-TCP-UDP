@@ -1,4 +1,4 @@
-# server UDP
+# servidor UDP
 # -*- coding: utf-8 -*-
 import socket
 
